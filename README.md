@@ -15,3 +15,22 @@ Furthermore, the proposal positions AR as a diagnostic tool for healthcare profe
 Overall, the concept of this proposal lies in utilizing AR technology to revolutionize the field of neurology, enabling precise visualization, real-time guidance, early detection, and enhanced diagnostics. By combining these elements, the proposal seeks to drive advancements in neurology, improve patient outcomes, and empower both healthcare professionals and individuals seeking better brain health management.
 ![Screenshot 2023-08-05 135841](https://github.com/Srinithi2501/MRI_AR/assets/116148789/ae7f518b-0444-45c8-a1b0-d7e86767ee01)
 
+TOOLS USED:
+Tools Used:
+
+1. Vuforia:
+Vuforia is an augmented reality software development kit (SDK) that enables the creation of augmented reality experiences. It provides features such as image recognition, 3D object tracking, and spatial mapping, allowing developers to overlay virtual content onto the real world. Vuforia is commonly used for marker-based AR applications and provides robust support for tracking and rendering 3D models.
+
+2. Unity:
+Unity is a popular game development platform that has gained significant traction in the augmented reality space. It offers a robust set of tools and features for creating interactive and immersive AR experiences. Unity provides a powerful rendering engine, physics simulations, and scripting capabilities, making it an ideal choice for developing AR applications that run on various platforms.
+
+3. OpenCV:
+OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning library. It provides a comprehensive set of functions and algorithms for image and video analysis, including features such as image recognition, object detection, and tracking. OpenCV is commonly used in augmented reality applications for tasks such as image processing, marker detection, and visual tracking.
+
+4. TensorFlow:
+TensorFlow is a popular machine learning framework developed by Google. It provides a comprehensive set of tools and libraries for building and training machine learning models. In the context of augmented reality, TensorFlow can be used for tasks such as image recognition, object detection, and gesture recognition. It enables the development of intelligent AR applications that can interpret and respond to the user's environment.
+
+5. ARCore (.NET Core):
+ARCore is a platform developed by Google for building augmented reality experiences on Android devices. With ARCore's .NET Core support, developers can use the .NET framework to build AR applications for Android devices. This allows for seamless integration with other .NET technologies and libraries, facilitating the development of AR applications with enhanced functionality and performance.
+
+By leveraging these tools, developers can harness the power of augmented reality and create compelling and interactive experiences in the field of neurology. These tools provide the necessary capabilities for image recognition, 3D object tracking, machine learning, and more, enabling the development of sophisticated AR applications that enhance visualization, diagnosis, and treatment in the medical field.
