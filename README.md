@@ -33,3 +33,5 @@ TensorFlow is a popular machine learning framework developed by Google. It provi
 ARCore is a platform developed by Google for building augmented reality experiences on Android devices. With ARCore's .NET Core support, developers can use the .NET framework to build AR applications for Android devices. This allows for seamless integration with other .NET technologies and libraries, facilitating the development of AR applications with enhanced functionality and performance.
 
 By leveraging these tools, developers can harness the power of augmented reality and create compelling and interactive experiences in the field of neurology. These tools provide the necessary capabilities for image recognition, 3D object tracking, machine learning, and more, enabling the development of sophisticated AR applications that enhance visualization, diagnosis, and treatment in the medical field.
+THE FINAL OUTPUT OF THE PROJECT:
+![brain_image](https://github.com/Srinithi2501/MRI_AR/assets/116148789/27a9e9d7-5831-4719-b54b-36f8c44e3a36)
