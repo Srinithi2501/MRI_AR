@@ -13,3 +13,5 @@ The concept also highlights the importance of early detection and monitoring of 
 Furthermore, the proposal positions AR as a diagnostic tool for healthcare professionals in the field of neurology. By exploring the capabilities of AR technology, medical professionals can enhance their analysis and diagnosis of neurological disorders, leading to improved accuracy and confidence in patient care.
 
 Overall, the concept of this proposal lies in utilizing AR technology to revolutionize the field of neurology, enabling precise visualization, real-time guidance, early detection, and enhanced diagnostics. By combining these elements, the proposal seeks to drive advancements in neurology, improve patient outcomes, and empower both healthcare professionals and individuals seeking better brain health management.
+![Screenshot 2023-08-05 135841](https://github.com/Srinithi2501/MRI_AR/assets/116148789/ae7f518b-0444-45c8-a1b0-d7e86767ee01)
+
