@@ -16,7 +16,6 @@ Overall, the concept of this proposal lies in utilizing AR technology to revolut
 ![Screenshot 2023-08-05 135841](https://github.com/Srinithi2501/MRI_AR/assets/116148789/ae7f518b-0444-45c8-a1b0-d7e86767ee01)
 
 TOOLS USED:
-Tools Used:
 
 1. Vuforia:
 Vuforia is an augmented reality software development kit (SDK) that enables the creation of augmented reality experiences. It provides features such as image recognition, 3D object tracking, and spatial mapping, allowing developers to overlay virtual content onto the real world. Vuforia is commonly used for marker-based AR applications and provides robust support for tracking and rendering 3D models.
